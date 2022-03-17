@@ -1,2 +1,0 @@
-# advanced python
-MyCaptain project
